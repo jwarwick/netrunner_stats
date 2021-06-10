@@ -1,4 +1,4 @@
-# Julia Notebook for Investigating Jinetki.net Game Logs
+# Julia Notebook for Investigating Jinteki.net Game Logs
 
 Best run out of a docker container.
 ```
